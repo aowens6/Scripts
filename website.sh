@@ -19,7 +19,8 @@ echo "<!DOCTYPE html>
     <h1>Hello World</h1>
 
   <body>
-
+    <p>This is a paragraph</p>
+    <a>http://www.google.com</a>
   </body>
 </html>" > index.html
 
